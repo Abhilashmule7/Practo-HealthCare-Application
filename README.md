@@ -10,7 +10,6 @@ This is a microservices-based Health Management System, a web application built 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
