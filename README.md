@@ -100,9 +100,3 @@ If you'd like to contribute to this microservices-based project, please follow t
 4. **Push your changes to your fork**.
 
 5. **Create a pull request to the main repositories**.
-
-## License
-
-This project and its microservices are licensed under the MIT License. See the LICENSE file in each repository for details.
-
-Feel free to reach out if you have any questions or need further assistance.
